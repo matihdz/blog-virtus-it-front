@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/blog-virtus-it-front/static/css/main.c5fb8c02.css",
+    "main.js": "/blog-virtus-it-front/static/js/main.4e3e12cd.js",
+    "static/js/787.4a710b98.chunk.js": "/blog-virtus-it-front/static/js/787.4a710b98.chunk.js",
+    "index.html": "/blog-virtus-it-front/index.html",
+    "static/media/user-circle.svg": "/blog-virtus-it-front/static/media/user-circle.f9d0a4c00050debe7146f04247bf8e89.svg",
+    "static/media/heart.svg": "/blog-virtus-it-front/static/media/heart.204aacacb36750b09f0ad06cda0fd895.svg",
+    "static/media/pencil-alt.svg": "/blog-virtus-it-front/static/media/pencil-alt.0fd393ecd0b44e0dba0defbae6c0bd64.svg",
+    "static/media/x.svg": "/blog-virtus-it-front/static/media/x.f9ef5bb990864033a4bb15d0c9aaef75.svg",
+    "main.c5fb8c02.css.map": "/blog-virtus-it-front/static/css/main.c5fb8c02.css.map",
+    "main.4e3e12cd.js.map": "/blog-virtus-it-front/static/js/main.4e3e12cd.js.map",
+    "787.4a710b98.chunk.js.map": "/blog-virtus-it-front/static/js/787.4a710b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5fb8c02.css",
+    "static/js/main.4e3e12cd.js"
+  ]
+}
